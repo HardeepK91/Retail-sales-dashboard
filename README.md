@@ -18,6 +18,5 @@ Sales increased by ~45% in 2025
 Technology is the top-performing category
 West region generates highest revenue
 Some products consistently generate losses
-📂 Portfolio
 
-👉 Download full project PDF:
+
